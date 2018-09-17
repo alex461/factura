@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Facturacion</string>
+    <string name="tituloContribuyente">Contribuyente Emisor</string>
+    <string name="tituloContribuyenteReceptor">Contribuyente Receptor</string>
+    <string name="hintDeEmpresa">Nombre de la Empresa</string>
+    <string name="hintDeRif">Rif</string>
+    <string name="hintDelNombre">Nombre Cliente</string>
+    <string name="hintApellido">Apellido Cliente</string>
+    <string name="cedulaCliente">Cedula Cliente</string>
+    <string name="tituloProducto">Productos</string>
+    <string name="hintDelCodigoProducto">Codigo</string>
+    <string name="hintDelProducto">Descripción</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="hintPrecio">Precio</string>
+    <string name="textBoton">Agregar</string>
+    <string name="textBoton2">Total</string>
+    <string name="total">Total </string>
+    <string name="validadorCantidad">Los Datos deben ser mayor a 0 y menor a 100</string>
+    <string name="validadorCampos">todos los campos son obligatorio</string>
+</resources>
